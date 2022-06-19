@@ -1,5 +1,6 @@
 ## Opencore-074-HP-Pavilion-Gaming-17-cd0xxx-Monterey
 ### 机器信息
+名称：惠普 光影精灵 5 Plus
 机型：HP-Pavilion-Gaming-17-cd0xxx
 系统：Monterey（mac os 12）
 ### 正常功能
